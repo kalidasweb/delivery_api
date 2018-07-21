@@ -1,6 +1,6 @@
 # Task List
 
-Used to collect a Token for a registered User.
+Get all task belongs to your account.
 
 **URL** : `/api/new_order/`
 
