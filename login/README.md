@@ -8,6 +8,11 @@ Used to collect a Token for a registered User.
 
 **Auth required** : NO
 
+**Headers required**:
+
+ ```x-client-data: <client_token>```
+
+
 **Data constraints**
 
 ```json
