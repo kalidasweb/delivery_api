@@ -4,7 +4,7 @@ Used to collect a Token for a registered User.
 
 **URL** : `/api/new_order/`
 
-**Method** : `POST`
+**Method** : `GET`
 
 **Auth required** : Yes
 
